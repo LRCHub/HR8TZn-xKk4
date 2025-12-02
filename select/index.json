@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "→unfinished→",
+  "base_artist": "KOTOKO",
+  "createdAt": "2025-12-02T13:38:55.354107Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Unfinished Sympathy",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/01_Unfinished_Sympathy_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Unfinished Sympathy",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/02_Unfinished_Sympathy_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Unfinished Sympathy - Nellee Hooper 12'' Mix",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/03_Unfinished_Sympathy_-_Nellee_Hooper_12''_Mix_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Unfinished Sympathy (Nellee Hooper 12\" Mix)",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/04_Unfinished_Sympathy_(Nellee_Hooper_12__Mix)_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Unfinished Sympathy - Nellee Hooper 7'' Mix",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/05_Unfinished_Sympathy_-_Nellee_Hooper_7''_Mix_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Unfinished Sympathy (Nellee Hooper 7\" Mix)",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/06_Unfinished_Sympathy_(Nellee_Hooper_7__Mix)_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Unfinished Sympathy - Paul Oakenfold Mix",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/07_Unfinished_Sympathy_-_Paul_Oakenfold_Mix_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Unfinished Sympathy (Paul Oakenfold Mix)",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/08_Unfinished_Sympathy_(Paul_Oakenfold_Mix)_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Right Start - Unfinished Outtake",
+      "artist": "Talking Heads",
+      "has_synced": false,
+      "path": "select/09_Right_Start_-_Unfinished_Outtake_Talking_Heads.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Right Start (unfinished outtake)",
+      "artist": "Talking Heads",
+      "has_synced": false,
+      "path": "select/10_Right_Start_(unfinished_outtake)_Talking_Heads.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Two Note Swivel - Unfinished Outtake",
+      "artist": "Talking Heads",
+      "has_synced": false,
+      "path": "select/11_Two_Note_Swivel_-_Unfinished_Outtake_Talking_Heads.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Unfinished Business",
+      "artist": "Au Pairs",
+      "has_synced": false,
+      "path": "select/12_Unfinished_Business_Au_Pairs.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Unfinished Sympathy - Live at Koningin Elisabethzaal 2012",
+      "artist": "Hooverphonic",
+      "has_synced": true,
+      "path": "select/13_Unfinished_Sympathy_-_Live_at_Koningin_Elisabethzaal_2012_Hooverphonic.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Unfinished Sympathy (Nellee Hooper 12'' Mix)",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/14_Unfinished_Sympathy_(Nellee_Hooper_12''_Mix)_Massive_Attack.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "→unfinished→",
+      "artist": "KOTOKO",
+      "has_synced": false,
+      "path": "select/pl_01_→unfinished→_KOTOKO.txt"
+    }
+  ]
+}
